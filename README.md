@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GitHub followers](https://img.shields.io/github/followers/LarsHD44.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/LarsHD44?tab=followers)
 <!--
 **LarsHD44/LarsHD44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
