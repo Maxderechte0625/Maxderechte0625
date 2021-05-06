@@ -1,6 +1,7 @@
 ### Account Stats
 [![GitHub followers](https://img.shields.io/github/followers/LarsHD44.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/LarsHD44?tab=followers) 
 ![Profile views](https://gpvc.arturio.dev/LarsHD44)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/LarsHD44/)
 
 - 🔭 I’m currently working on Jarvis.
 - 👯 I’m looking to collaborate on my Jarvis Voice Assistent.
