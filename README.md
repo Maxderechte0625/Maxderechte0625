@@ -11,4 +11,4 @@
 
 ### Stats
 [![LarsHD44's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LarsHD44&theme=blue-green)](https://github.com/LarsHD44)
-[![Stargazers over time](https://starchart.cc/LarsHD44.svg)](https://starchart.cc/LarsHD44)
+[![Stargazers over time](https://starchart.cc/LarsHD44/Jarvis.svg)](https://starchart.cc/LarsHD44)
