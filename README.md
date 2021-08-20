@@ -6,7 +6,7 @@
 #### Stuff
 - 🏗️ I’m currently working on Jarvis, my own little voice-assistent
 - 👯 I’m looking to collaborate on my Jarvis Voice Assistent.
-- 📫 How to reach me: info@Devschuppen.eu
+- 📫 How to reach me: industries.thurner@gmail.com
 - ⚡ Fun fact: Im realy bored so don't ask why Iam doing this.
 
 ### Stats
