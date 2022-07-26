@@ -1,13 +1,11 @@
 ### Account Stats
-[![GitHub followers](https://img.shields.io/github/followers/LarsHD44.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/LarsHD44?tab=followers) 
-![Profile views](https://gpvc.arturio.dev/LarsHD44)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/LarsHD44/)
+[![GitHub followers](https://img.shields.io/github/followers/LarsHD44.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Maxderechte0625?tab=followers) 
+![Profile views](https://gpvc.arturio.dev/Maxderechte0625)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/Maxderechte0625/)
 
 #### Stuff
-- 🏗️ I’m currently working on Jarvis, my own little voice-assistent
-- 👯 I’m looking to collaborate on my Jarvis Voice Assistent.
-- 📫 How to reach me: industries.thurner@gmail.com
-- ⚡ Fun fact: Im realy bored so don't ask why Iam doing this.
+- 🏗️ I’m currently working on many Fivem related stuff.
+- 📫 How to reach me: max.thurner@thurnerindustries.de
 
 ### Stats
-[![LarsHD44's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LarsHD44&theme=blue-green)](https://github.com/LarsHD44)
+[![Maxderechte0625's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxderechte0625&theme=blue-green)](https://github.com/Maxderechte0625)
