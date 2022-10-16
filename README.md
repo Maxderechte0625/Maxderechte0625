@@ -11,4 +11,4 @@
 [![Maxderechte0625's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxderechte0625&theme=blue-green)](https://github.com/Maxderechte0625)
 
 
-https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg
+<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke">
