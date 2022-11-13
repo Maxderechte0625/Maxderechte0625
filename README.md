@@ -10,5 +10,9 @@
 ### Stats
 [![Maxderechte0625's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxderechte0625&theme=blue-green)](https://github.com/Maxderechte0625)
 
-
+<p align="center">
+   <a href="https://discord.com/users/642450515007111241" target="_blank" rel="nofollow">
+      <img src="https://lanyard-profile-readme.vercel.app/api/642450515007111241?idleMessage=Probably%20sleeping%20else..." alt="Discord Presence" align="center">
+   </a>
+</p>
 <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke">
