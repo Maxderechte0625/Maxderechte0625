@@ -15,4 +15,3 @@
       <img src="https://lanyard-profile-readme.vercel.app/api/642450515007111241?idleMessage=Probably%20sleeping%20else..." alt="Discord Presence" align="center">
    </a>
 </p>
-<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke">
