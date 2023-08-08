@@ -1,6 +1,5 @@
 ### Account Stats
 [![GitHub followers](https://img.shields.io/github/followers/Maxderechte0625.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Maxderechte0625?tab=followers) 
-![Profile views](https://gpvc.arturio.dev/Maxderechte0625)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/Maxderechte0625/)
 
 #### Stuff
